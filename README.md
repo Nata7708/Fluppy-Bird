@@ -1,5 +1,5 @@
 # Fluppy-Bird
-my first JavaScript pet-project
+my first JavaScript project
 
 TODO:
 replace the balloon with a bird; 
